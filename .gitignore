@@ -1,0 +1,16 @@
+
+build/bin
+node_modules
+frontend/dist
+
+
+# Ignore all .env files in the root folder
+
+
+
+# visual studio code
+.vscode
+.history
+*.log
+functions/*
+.temp/**
